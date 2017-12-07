@@ -23,6 +23,7 @@ class InitSpider(object):
 
         self.fail_time=2    #尝试2次网页请求失败即停止
         self.timeout=5      #请求超过5秒即为超时
+        #test
 
 
 
